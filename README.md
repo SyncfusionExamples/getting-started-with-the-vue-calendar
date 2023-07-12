@@ -32,9 +32,9 @@ Configure the Vue calendar to allow users to select single or multiple date valu
 ## Related links
 [Learn More about Vue Calendar](https://www.syncfusion.com/vue-components/vue-calendar?utm_source=github&utm_medium=listing&utm_campaign=vue-calendar-github-samples)
 
-[Download Free Trial](https://www.syncfusion.com/downloads/vue?utm_source=github&utm_medium=listing&utm_campaign=vue-calendar-github-samples)
+[Download Free Trial](https://www.syncfusion.com/downloads/vue/confirm?utm_source=github&utm_medium=listing&utm_campaign=vue-calendar-github-samples)
 
-[Pricing](https://www.syncfusion.com/sales/products/vue?utm_source=github&utm_medium=listing&utm_campaign=vue-calendar-github-samples)
+[Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=vue-calendar-github-samples)
 
 [Documentation](https://ej2.syncfusion.com/vue/documentation/calendar/getting-started/?utm_source=github&utm_medium=listing&utm_campaign=vue-calendar-github-samples)
 
@@ -46,7 +46,7 @@ Configure the Vue calendar to allow users to select single or multiple date valu
 
 [Online example](https://ej2.syncfusion.com/vue/demos/#/material/calendar/default.html?utm_source=github&utm_medium=listing&utm_campaign=vue-calendar-github-samples)
 
-[Knowledge base](https://www.syncfusion.com/kb/vue-components?utm_source=github&utm_medium=listing&utm_campaign=vue-calendar-github-samples)
+[Knowledge base](https://support.syncfusion.com/kb/web/category/73?utm_source=github&utm_medium=listing&utm_campaign=vue-calendar-github-samples)
 
 ## About Syncfusion Vue Components
 
