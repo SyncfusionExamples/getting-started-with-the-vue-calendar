@@ -2,12 +2,6 @@
 
 The [Vue Calendar](https://www.syncfusion.com/vue-components/vue-calendar?utm_source=github&utm_medium=listing&utm_campaign=vue-calendar-github-samples) is a component to display the date and days of the week. A quick-start project that helps you create a new Vue application using the Vue CLI toolchain and add the Syncfusion Calendar. This project contains simple code customization, as well as some important features like setting specific date range values to the calendar, multi-date selection, and navigation between different calendar views.
 
-Refer to the following documentation for the Syncfusion Vue Calendar component: 
-https://ej2.syncfusion.com/vue/documentation/calendar/getting-started
-
-Check out this online example of the Syncfusion Vue Calendar component: 
-https://ej2.syncfusion.com/vue/demos/#/bootstrap5/calendar/default.html
-
 ## Project prerequisites
 
 Make sure that you have the latest versions of Vue, Node, Vue class component, and Visual Studio Code in your machine before starting to work on this project.
@@ -51,8 +45,6 @@ Export Charts to PDF documents or as image formats such as SVG, PNG and JPEG, as
 [Suggest a feature or report a bug](https://www.syncfusion.com/feedback/vue?utm_source=github&utm_medium=listing&utm_campaign=vue-calendar-github-samples)
 
 [Online example](https://ej2.syncfusion.com/vue/demos/#/bootstrap5/calendar/default.html?utm_source=github&utm_medium=listing&utm_campaign=vue-calendar-github-samples)
-
-[Knowledge base](https://support.syncfusion.com/kb/web/category/73?utm_source=github&utm_medium=listing&utm_campaign=vue-calendar-github-samples)
 
 ## About Syncfusion Vue Components
 
