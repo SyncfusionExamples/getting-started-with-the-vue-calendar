@@ -16,11 +16,9 @@ To run this application, you need to clone the `getting-started-with-the-vue-cal
 
 Apart from the standard, built-in theme, the Vue Calendar component provides complete control over its appearance, allowing you to customize the style to suit your application.
 
-
 ### Date selection within a date range
 
 You can restrict the [Vue Calendar](https://www.syncfusion.com/vue-components/vue-calendar?utm_source=github&utm_medium=listing&utm_campaign=vue-calendar-github-samples) component so that only a date value within a specific range of dates can be entered or selected by specifying the minimum and maximum date options.
-
 
 ### Multi-language calendar
 
